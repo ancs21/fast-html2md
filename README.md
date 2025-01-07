@@ -1,6 +1,8 @@
-# fast-html2md
+# fast-html2md [![PyPI version](https://badge.fury.io/py/fast-html2md.svg)](https://badge.fury.io/py/fast-html2md) [![Run Tests](https://github.com/ancs21/fast-html2md/actions/workflows/test.yml/badge.svg)](https://github.com/ancs21/fast-html2md/actions/workflows/test.yml) [![codecov](https://codecov.io/github/ancs21/fast-html2md/branch/main/graph/badge.svg?token=8KP9MXS92V)](https://codecov.io/github/ancs21/fast-html2md)
 
 Convert HTML to Markdown for LLM input extraction.
+
+
 
 ## Installation
 

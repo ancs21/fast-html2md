@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from markdownify import markdownify as md
 from functools import lru_cache
 
-from src.fast_html2md.models import ModelInfo
+from .models import ModelInfo
 
 
 class HTMLCleanerPipeline:
